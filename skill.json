@@ -1,0 +1,15 @@
+{
+  "name": "genpark-lattice-boltzmann-d2q9-fluid-skill",
+  "version": "1.0.0",
+  "description": "2D 9-velocity (D2Q9) Lattice Boltzmann Method (LBM) fluid solver executing BGK collision, periodic streaming, and macroscopic velocity integration.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "lbm",
+    "lattice-boltzmann",
+    "cfd",
+    "fluid-dynamics"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
